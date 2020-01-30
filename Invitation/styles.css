@@ -13,7 +13,7 @@
 .banner{
     width:100%;
     height: 350px;
-    background-image: url(Invitation/Images/long_tree.jpg);
+    background-image: url(Images/long_tree.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -32,7 +32,7 @@
 	
 }
 #US{
-	 background-image: url(Images/like2.JPG);
+	 background-image: url(Initation/Images/like2.JPG);
 	 width:100%;
 	 height: 600px;
 	 background-repeat: no-repeat;
