@@ -45,8 +45,8 @@
     border-radius: 0 0 200px 0;
 }
 #venuimg{
-	width:50%;
-    height: 300px;
+	width:auto;
+    height: auto;
     display: inline;
     border:2px solid #fff;
     border-radius: 8px;
@@ -54,9 +54,9 @@
 	margin-left:0px;
 	
 }
-#coupleimg{
-	width:100%;
-    height: 200px;
+#coupleimg0{
+	width:auto;
+    height: auto;
     border-radius: 100%;
     border-top: 10px solid #fff;
     border-bottom: 10px solid #fff;
